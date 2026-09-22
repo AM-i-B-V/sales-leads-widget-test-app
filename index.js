@@ -145,7 +145,6 @@ const FormManager = (() => {
         emailAddress: data.emailAddress,
         phoneNumber: data.phoneNumber,
         address: data.address,
-        company: data.company,
         preferredCommunicationChannel: data.preferredCommunicationChannel,
       },
       title: data.title,
